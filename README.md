@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
 
 ## About:
-<p align="left">I am a second year undergrad student studing Computer Science at Queen Mary University of London. I am aiming to persue a carreer in Software Development on completion of my Degree</p>
+<p align="left">I am a second year undergrad student studing Computer Science at Queen Mary University of London. I am aiming to persue a carreer in Software Development on completion of my Degree.</p>
 
 ## Projects:
 ### Portfolio Website:
@@ -12,11 +12,6 @@
 ### Library Book Management Software:
 &nbsp; &nbsp; &nbsp; <i>Sep 2021 - Apr 2022</i>
 <Br>A library book management software which would allow library registration, book search, reservation and self return of book loans. The project also had a non reply automated email for to registered members in the system. The project UI used WPF and the back end used C#. The software ran as a client server system using a SQL server and TCP asynchronous server accessible over a LAN network.
-
-
-
-
-
 
 ## Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
