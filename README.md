@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
 
 ## About:
-<p align="left">I am a second year undergrad student studing Computer Science at Queen Mary University of London. I am aiming to persue a carreer in Software Development on completion of my Degree.</p>
+<p align="left">I am a third year undergrad student studing Computer Science at Queen Mary University of London. I am aiming to persue a carreer in Software Development on completion of my Degree.</p>
 
 ## Projects:
 ### Portfolio Website:
