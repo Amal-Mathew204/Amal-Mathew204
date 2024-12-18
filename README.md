@@ -1,20 +1,86 @@
+<h1 align="center">Hi 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Amal</h1>
+<p>My name is Amal Mathew, a third year undergraduate student studing Computer Science at Queen Mary University of London. I am aiming to persue a career in Software Development on the completion of my Degree.</p>
 
-## About:
-<p align="left">I am a third year undergrad student studing Computer Science at Queen Mary University of London. I am aiming to persue a carreer in Software Development on completion of my Degree.</p>
+- 🔭 I’m currently working with **Embedding Models, MongoDB and Docker to build a Semantic Search Module for an AI Assistant Chatbot**
 
-## Projects:
-### Portfolio Website:
-&nbsp; &nbsp; &nbsp; <i>Jan 2023 - Apr 2023</i>
-<Br>A dynamic multipage portfolio website with a blog using the following technologies HTML5, CSS, JavaScript and PHP. The website used a MAMP server for local host deployment and SQL database to store login details and blog posts. The websites form validation handled by both Javascript and PHP.
+- 🌱 I’m currently learning 
+    - **Game Development**
+    - **Web Programming**
+    - **Big Data**
+    - **Security Engineering**
+    - **Deep Learning and Nueral Networks**
+    - **Distributed Systems**
 
-### Library Book Management Software:
-&nbsp; &nbsp; &nbsp; <i>Sep 2021 - Apr 2022</i>
-<Br>A library book management software which would allow library registration, book search, reservation and self return of book loans. The project also had a non reply automated email for to registered members in the system. The project UI used WPF and the back end used C#. The software ran as a client server system using a SQL server and TCP asynchronous server accessible over a LAN network.
+- 🤖 My Hobbies are **Gaming** and keeping up with the latest **Tech News/Updates** 
 
-## Languages and Tools:
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- 📫 How to reach me **amalmathew2004@outlook.com**
+
+
+<h1></h1>
+<h3 align="left">My Technology Stack:</h3>
+<section>
+<div>
+<h4><i>Programming Languages:</i></h4>
+    <div>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </div>
+<h4><i>Frontend Development</i></h4>
+    <div>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    </div>
+
+<h4><i>Backend Development:</i></h4>
+    <div>
+        <svg fill="none" height="40" width="40" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 154"><circle cx="77" cy="77" fill="#05998b" r="77"/><path d="M81.375 18.667l-38.75 70H77.5l-3.875 46.666 38.75-70H77.5z" fill="#fff"/></svg>
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    </div>
+<h4><i>Databases:</i></h4>
+    <div>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    </div>
+</div>
+
+<div>
+<h4><i>Devops:</i></h4>
+    <div>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+    </div>
+
+<h4><i>AI/ML:</i></h4>
+    <div>
+        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </div>
+
+<h4><i>Other:</i></h4>
+    <div>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    </div>
+</div>
+</section>
+<br>
+<h1></h1>
+<h3 align="left">GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-mathew204&theme=dark" alt="amal-mathew204" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amal-mathew204&show_icons=true&theme=dark&locale=en" alt="amal-mathew204" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amal-mathew204&show_icons=true&theme=dark&locale=en&layout=compact" alt="amal-mathew204" />
+</p>
